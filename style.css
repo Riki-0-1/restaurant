@@ -154,7 +154,7 @@ a.link-to-book:hover {
 	}
 }
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 577px) {
 	.section-intro {
 		height: 300px;
 	}
